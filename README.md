@@ -31,6 +31,7 @@ Atualmente estou desenvolvendo minhas habilidades em desenvolvimento web, progra
 - JavaScript
 - HTML5
 - CSS3
+- Java
 
 ⚙️ Ferramentas
 
