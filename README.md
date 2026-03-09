@@ -9,6 +9,7 @@ Atualmente estou desenvolvendo minhas habilidades em desenvolvimento web, progra
 ## 🚀 Sobre mim
 
 🎓 Graduando em Engenharia de Software – Estácio - Cursando
+
 🎓 Técnico em Análise e Desenvolvimento de Sistemas – Proz - concluído  
 📍 Vespasiano – Minas Gerais, Brasil  
 
